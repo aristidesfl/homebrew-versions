@@ -28,8 +28,6 @@ class Mkvtoolnix < Formula
   url 'http://www.bunkus.org/videotools/mkvtoolnix/sources/mkvtoolnix-5.8.0.tar.bz2'
   sha1 '5077bcc6403acc18a867a309861e86b593227bb9'
 
-  head 'https://github.com/mbunkus/mkvtoolnix.git'
-
   depends_on 'pkg-config' => :build
   depends_on Ruby19
   depends_on 'libvorbis'
