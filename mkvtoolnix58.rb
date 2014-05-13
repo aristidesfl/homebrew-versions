@@ -23,7 +23,7 @@ class Ruby19 < Requirement
   end
 end
 
-class Mkvtoolnix < Formula
+class Mkvtoolnix58 < Formula
   homepage 'http://www.bunkus.org/videotools/mkvtoolnix/'
   url 'http://www.bunkus.org/videotools/mkvtoolnix/sources/mkvtoolnix-5.8.0.tar.bz2'
   sha1 '5077bcc6403acc18a867a309861e86b593227bb9'
